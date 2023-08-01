@@ -31,7 +31,7 @@ sudo pacman -Syu
 clear
 
 figlet installing BlackArch tools
-sudo pacman -S metasploit postgresql wireshark-qt fluxion arp-scan nikto nmap
+sudo pacman -S metasploit postgresql wireshark-qt fluxion arp-scan nikto nmap netdiscover
 
 clear
 
