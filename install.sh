@@ -1,5 +1,8 @@
 #!/bin/bash
 
+sudo pacman -Syu
+sudo pacman -S figlet
+
 clear
 
 figlet updating system
