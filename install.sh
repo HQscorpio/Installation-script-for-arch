@@ -21,7 +21,8 @@ clear
 
 figlet installing programs
 paru -S google-chrome visual-studio-bin ttf-croscore ttf-iosevka-nerd ttf-jetbrains-mono-nerd ttf-material-design-icons-extended amberol-git etcher-bin
-sudo pacman -S vim curl wget telegram-desktop discord virtualbox virtualbox-host-modules-arch ark cmake dkms gwenview kdeconnect htop kvantum neofetch okular openvpn spectacle vlc zsh android-tools hplip
+sudo pacman -S vim curl wget telegram-desktop discord virtualbox virtualbox-host-modules-arch ark cmake dkms gwenview kdeconnect htop kvantum neofetch okular openvpn spectacle vlc zsh android-tools hplip adobe-source-han-sans-jp-fonts adobe-source-han-serif-jp-fonts noto-fonts-cjk ttf-hanazono otf-ipafont
+
 
 clear
 
